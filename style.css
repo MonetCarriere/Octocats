@@ -1,0 +1,26 @@
+
+.octodex {
+    display: flex;
+}
+
+
+.octocat {
+ flex-direction: row;
+ justify-content: center;
+}
+
+
+
+.authors {
+
+}
+
+
+
+.image-footer {
+
+}
+
+
+/* I don't know how to do this assignment without
+tampering with the HTML
